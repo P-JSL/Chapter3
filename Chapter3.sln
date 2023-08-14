@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionStatements", "Sele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatments", "IterationStatments\IterationStatments.csproj", "{09CF25C7-0CBC-42E7-A7A3-87EDE036F8F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{6159C710-4902-463C-9FF9-43FCF40219D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{09CF25C7-0CBC-42E7-A7A3-87EDE036F8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09CF25C7-0CBC-42E7-A7A3-87EDE036F8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09CF25C7-0CBC-42E7-A7A3-87EDE036F8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6159C710-4902-463C-9FF9-43FCF40219D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6159C710-4902-463C-9FF9-43FCF40219D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6159C710-4902-463C-9FF9-43FCF40219D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6159C710-4902-463C-9FF9-43FCF40219D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
